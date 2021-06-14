@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "690665338183",
+    "project_id": "vlu-notification-system",
+    "storage_bucket": "vlu-notification-system.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:690665338183:android:9d8596ae0051114d2fc862",
+        "android_client_info": {
+          "package_name": "vlu.k24.sep.VLU_Notify_App"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "690665338183-ut67ni9vcg78m6d9is1mjq1tgnu24c85.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "vlu.k24.sep.VLU_Notify_App",
+            "certificate_hash": "a7651399b9a96ff69220e65e895ed823b774b993"
+          }
+        },
+        {
+          "client_id": "690665338183-j73bhpc92iv4nm9oalmopglhqqvuu9kn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5Tb99CKXM0ItTAozv6EGv0YXk_YeKoCo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "690665338183-j73bhpc92iv4nm9oalmopglhqqvuu9kn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
